@@ -2,7 +2,7 @@
 
 A modern, responsive café website built with React and Tailwind CSS. Designed as a real-world frontend portfolio project showcasing multi-page layout, component architecture, and clean UI design.
 
-**Live Demo:** [coming soon]  
+**Live Demo:** [https://bbrewed.netlify.app/]  
 **Built by:** Hammd — [github.com/Hammd04](https://github.com/Hammd04)
 
 ---
